@@ -1,0 +1,5 @@
+streamlit-pages==0.1.0
+streamlit==0.86.0
+plotly==5.3.1
+turicreate==6.4.1
+python-dotenv==0.19.1

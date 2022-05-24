@@ -1,0 +1,156 @@
+,Activity_ID,Activity_Name,Activity_Content,Activity_Type,GameType,Ages_2yo,Ages_3yo,Ages_4yo,Ages_5yo,Ages_6yo,Ages_7yo,Cultures_None,Cultures_Brazil,Cultures_US,Cultures_UK,Cultures_Denmark,Cultures_Spain,Cultures_Mexico,Cultures_Canada,Cultures_Portugal,Cultures_Australia,Cultures_France,Cultures_Italy,Cultures_Germany
+0,farm-poiki-book-1,"Book: Poiki, the farmer",farm,standard,reading-book,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1,farm-poiki-book-2,Book: The animals in the farm,farm-animals,standard,reading-book,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+2,farm-wendy-book-1,Book: Colors in the farm,colors,standard,reading-book,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3,farm-kevin-book-1,Book: Shapes in the farm,shapes,standard,reading-book,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+4,country-none-book-1,How are the farms in my country?,my-country,cultural,reading-book,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+5,country-none-book-2,Which vegetables in my country?,vegetables,cultural,reading-book,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+6,country-none-book-3,Famous people from my country,my-country,cultural,reading-book,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+7,country-none-book-4,Monuments from my country,my-country,cultural,reading-book,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+8,home-kevin-book-1,Book about diaper weaning,diaper-weaning,SEL,reading-book,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+9,daycare-all-book-1,Book about sharing toys,social-codes,SEL,reading-book,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+10,world-all-book-1,Book: how people live around the world,diversity,SEL,reading-book,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+11,home-wendy-book-1,Book about new baby in the family,family,SEL,reading-book,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+12,travel-yasmin-book-1,Book about saying goodbye,greetings,SEL,reading-book,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+13,who-wendy-book-1,Book: Wendy is a scientist,characters,standard,reading-book,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,who-wendy-book-2,Book: It is time to open the birthday gift,birthday,standard,reading-book,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+15,lab-wendy-book-1,Book: Wendy teaches about germs,science,standard,reading-book,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,farm-poiki-videoclip-1,Videoclip: Old MacDonalds had a farm,farm-animals,standard,videoclip,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+17,farm-poiki-videoclip-2,Videoclip: A farmer had a dog called BINGO,phonics,standard,videoclip,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+18,theatre-all-videoclip-1,Videoclip: 5 little ducks,numbers,standard,videoclip,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+19,country-yasmin-videoclip-1,Videoclip:Itsy bitsy spider in my country,my-country,cultural,videoclip,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+20,country-wendy-videoclip-1,"Videoclip: Twinkle, twinkle, little star",my-country,cultural,videoclip,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1
+21,country-yasmin-videoclip-2,Yasmin is visiting my country,my-country,cultural,videoclip,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+22,who-all-videoclip-1,Videoclip: happy birthday song,birthday,cultural,videoclip,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+23,farm-yasmin-demovideo-1,Demo vídeo: Moms and curbs,farm-animals,SEL,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+24,farm-poiki-demovideo-1,Demo video: Poiki is collecting the eggs,numbers,standard,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+25,farm-kevin-demovideo-1,Demo video: Vegetables in the right basket,colors,standard,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+26,farm-wendy-demovideo-1,Demo video: Where is the fruit?,fruits,standard,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+27,farm-kevin-demovideo-2,Demo video: Farm animals piano ,farm-animals,standard,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+28,farm-poiki-demovideo-2,Demo video: Harvesting with the tractor,vegetables,standard,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+29,farm-poiki-demovideo-3,Demo video: Harvesting with the wheelcart,fruits,standard,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+30,farm-none-demovideo-1,Demo video: puzzle parts of the farm animals,numbers,standard,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+31,farm-poiki-demovideo-4,Demo video: Poiki plants and harvest,vegetables,standard,demo-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+32,lab-wendy-demovideo-1,Demo video: mixing colors,colors,standard,demo-video,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+33,who-wendy-demovideo-1,Demo video: collecting toys,colors,standard,demo-video,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+34,who-yasmin-demovideo-1,Demo video: baking the cake,birthday,cultural,demo-video,0,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+35,who-kevin-demovideo-1,Demo vídeo: decorating the cake,birthday,cultural,demo-video,0,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+36,farm-yasmin-flashcards-1,Simple Flashcards - farm animals,farm-animals,standard,flashcards,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+37,vehicles-yasmin-flashcards-1,Simple Flashcards - vehicles,vehicles,standard,flashcards,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+38,body-yasmin-flashcards-1,Simple Flashcards -  body,body,standard,flashcards,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+39,pets-yasmin-flashcards-1,Simple Flashcards - pets,clothes,standard,flashcards,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+40,colors-yasmin-flashcards-1,Simple Flashcards - colors,colors,standard,flashcards,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+41,seaanimals-yasmin-flashcards-1,Simple Flashcards - sea animals,sea-animals,standard,flashcards,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+42,mycountryanimals-yasmin-flashcards-1,Flashcards - animals of my country,my-country,cultural,flashcards,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+43,instruments-yasmin-flashcards-1,Flashcards - musical instruments ,instruments,cultural,flashcards,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+44,fruits-yasmin-flashcards-1,Flashcards - fruits ,fruits,cultural,flashcards,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+45,veggies-yasmin-flashcards-1,Flashcards - vegetables ,vegetables,cultural,flashcards,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+46,sea-yasmin-stickers-1,Stickers - sea animals,sea-animals,standard,stickers,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+47,farm-poiki-stickers-1,Stickers - farm animals,farm-animals,standard,stickers,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+48,jungle-yasmin-stickers-1,Stickers - jungle animals,jungle-animals,standard,stickers,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+49,forest-kevin-stickers-1,Stickers - forest animals,forest-animals,standard,stickers,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+50,body-wendy-stickers-1,Stickers - body,body,standard,stickers,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+51,body-wendy-stickers-2,Stickers - body,body,standard,stickers,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+52,dinosaurs-kevin-stickers-1,Stickers - dinosaurs,dinosaurs,standard,stickers,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+53,beach-yasmin-stickers-1,Stickers - beach,beach,standard,stickers,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+54,home-poiki-stickers-1,Stickers in the house,home,standard,stickers,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+55,greetings-poiki-video-1,Say hello,greetings,SEL,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+56,numbers-kevin-video-1,Video counting till 5 - forest animals,numbers,standard,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+57,numbers-poiki-video-1,Video counting till 5 - insects,insects,standard,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+58,numbers-kevin-video-2,Video counting til 6 - forest animals,numbers,standard,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+59,numbers-yasmin-video-1,Video counting till 5 - sea animals,sea-animals,standard,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+60,numbers-poiki-video-2,Video counting till 5 - vegetables,vegetables,standard,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+61,vehicles-yasmin-video-1,Video about vehicles,vehicles,standard,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+62,feelings-poiki-video-1,It is not fun if somebody is not having fun,feelings,SEL,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+63,greetings-yasmin-video-1,Yasmin in the kindergarten,greetings,SEL,learning-video,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+64,socialcode-wendy-video-1,Saying I am sorry,social-codes,SEL,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+65,feelings-kevwen-video-1,Kevin steals Wendy's teddy bear,feelings,SEL,learning-video,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+66,farm-poiki-video-1,Poiki forgot the strawberries,friends,SEL,learning-video,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+67,farm-poiki-video-2,A storm hit Poiki's farm,friends,SEL,learning-video,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+68,forestanimals-kevin-puzzle-1,Puzzle - forest animals - 3 pieces,forest-animals,cultural,puzzle,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+69,farm-wendy-puzzle-1,3 pieces Puzzle - farm animals,farm-animals,standard,puzzle,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+70,who-wendy-puzzle-1,2 pieces Puzzle - pets,pets,standard,puzzle,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+71,sea-yasmin-puzzle-1,2 pieces Puzzle - sea animals,sea-animals,standard,puzzle,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+72,jungle-yasmin-puzzle-1,2 pieces Puzzle - jungle animals,jungle-animals,standard,puzzle,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+73,desert-yasmin-puzzle-1,2 pieces Puzzle - desert animals,desert-animals,standard,puzzle,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+74,2littlepigs-all-puzzle-1,2 pieces Puzzle - 3 little pigs,fairy-tales,standard,puzzle,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+75,lab-wendy-puzzle-1,6-pieces puzzle: Wendy's lab,science,standard,puzzle,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+76,farm-poiki-puzzle-1,6-pieces puzzle: Poiki's farm,farm,standard,puzzle,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+77,lighthouse-yasmin-puzzle-1,6-pieces puzzle: Yasmin's lighthouse,characters,standard,puzzle,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+78,mycountry-yasmin-puzzle-1,6-pieces puzzle: Yasmin in my country,my-country,cultural,puzzle,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+79,forest-kevin-puzzle-1,6-pieces puzzle: Kevin's forest,forest,standard,puzzle,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+80,sea-yasmin-puzzle-2,6-pieces puzzle: Yasmin deep in the sea,sea-animals,standard,puzzle,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+81,veggies-poiki-hotspot-1,Where is? - 2 vegetables,vegetables,standard,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+82,toys-kevin-hotspot-1,Where is? - 2 toys,toys,standard,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+83,farm-wendy-hotspot-1,Where is? - 2 fruits,fruits,standard,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+84,farmanimals-poiki-hotspot-1,Where are the farm animals?,farm-animals,standard,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+85,seanimals-yasmin-hotspot-1,Where are the sea animals?,sea-animals,standard,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+86,who-wendy-hotspot-1,Where are the furtniture?,furniture,standard,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+87,farm-wendy-hotspot-2,Which fruit is this? - 4 fruits,fruits,cultural,hotspot,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+88,farm-kevin-hotspot-1,Which is the vegetable? - 4 plates,vegetables,cultural,hotspot,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+89,world-yasmin-hotspot-1,Which is the food? - 4 plates,foods,cultural,hotspot,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+90,sharing-wendy-hotspot-1,Wendy shares her teddy bear,social-codes,SEL,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+91,newkinder-yasmin-hotspot-1,First day in the new kindergarden,social-codes,SEL,hotspot,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+92,newbaby-poiki-hotspot-1,New baby in the family,baby,SEL,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+93,foods-poiki-hotspot-1,I don't like this food,foods,SEL,hotspot,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+94,friends-all-hotspot-1,My best friend,friends,SEL,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+95,feelings-wendy-hotspot-1,Sad and happy,feelings,SEL,hotspot,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+96,who-kevin-hotspot-1,Where are the pets?,pets,standard,hotspot,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+97,who-wendy-simulation-1,Wendy's morning routine,routine,standard,simulation,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+98,farm-poiki-simulation-1,Collecting the eggs,numbers,standard,simulation,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+99,farm-wendy-simulation-2,Poiki plants and harvest,vegetables,cultural,simulation,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+100,cooking-kevin-simulation-1,Preparing some food from my country,foods,cultural,simulation,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+101,cooking-poiki-simulation-1,Preparing some desert from my country,foods,cultural,simulation,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+102,cooking-yasmin-simulation-1,Baking a birthday cake,birthday,cultural,simulation,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+103,feelings-poiki-simulation-1,I am happy,feelings,SEL,simulation,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+104,sleeping-kevin-simulation-1,Nap time,sleeping,SEL,simulation,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+105,birthday-wendy-simulation-1,It is Wendy's birthday,birthday,SEL,simulation,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+106,christmas-all-simulation-1,How we celebrate Christmas,celebrations,SEL,simulation,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+107,cooking-kevin-simulation-2,Cake decoration,birthday,cultural,simulation,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+108,who-kevin-simulation-1,Pet care - simple version,pets,standard,simulation,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+109,who-poiki-simulation-2,Pet care - complete version,pets,standard,simulation,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+110,lab-wendy-colors-1,Mixing colors with Wendy,colors,standard,simulation,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+111,who-wendy-routine-2,Wendy is getting ready to sleep,routine,standard,simulation,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+112,farm-kevin-identification-1,Vegetables in the right baskets,colors,standard,identification,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+113,farm-wendy-identification-1,Collecting garbage in the farm,environment,standard,identification,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+114,farm-kevin-piano-1,Farm animals piano,phonics,standard,identification,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+115,farm-poiki-identification-1,Poiki is harvesting with his tractor,vegetables,cultural,identification,1,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+116,family-kevin-identification-1,My family,family,SEL,identification,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+117,colors-yasmin-identification-1,Collecting toys,colors,standard,identification,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+118,lab-wendy-shapes-1,Wendy's popping balloons,shapes,standard,identification,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+119,lab-wendy-space-1,Wendy teaches how to use the telescope,space,standard,identification,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+120,veggies-poiki-drawing-1,Drawing vegetables,vegetables,cultural,drawing,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+121,fruits-kevin-drawing-1,Drawing fruits,fruits,cultural,drawing,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+122,mycountry-yasmin-coloring-1,Celebrations from my country,celebrations,cultural,coloring-book,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+123,fairtytales-wendy-coloring-1,Fairy tales from my country,fairy-tales,cultural,coloring-book,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+124,foods-poiki-naming-1,What is the name of this food?,foods,cultural,naming,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+125,mycountry-yasmin-tracing-1,Monuments from my country,my-country,cultural,tracing,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+126,alphabet-poiki-tracing-1,My name,alphabet,cultural,tracing,0,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+127,farm-yasmin-tracing-1,Moms and curbs,farm-animals,SEL,tracing,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+128,alphabet-kevin-tracing-1,Tracing vowels,alphabet,cultural,tracing,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+129,yho-yasmin-tracing-1,Tracing my name,myself,cultural,tracing,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+130,farm-kevin-colors-1,Collecting the leaves,colors,standard,game,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+131,family-wendy-game-1,My family,family,SEL,game,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+132,diapers-kevin-game-1,Pee time,diaper-weaning,SEL,game,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+133,sleeping-poiki-game-1,Good night!,sleeping,SEL,game,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+134,country-birthday-game-1,How people celebrate birthday,birthday,SEL,game,1,1,0,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+135,who-wendy-colors-1,Wendy's bobble bath,colors,standard,game,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+136,lab-kevin-game-1,Whack the germs,health,standard,game,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+137,pets-bingo-1,Bingo - pets,pets,standard,bingo,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+138,farmanimals-bingo-1,Bingo - farm animals,farm-animals,standard,bingo,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+139,colors-bingo-1,Bingo - colors,colors,standard,bingo,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+140,myself-bingo-1,Bingo - my name,myself,SEL,bingo,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+141,beach-bingo-1,Bingo - beach,beach,standard,bingo,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+142,body-roulette-1,Roulette - body,body,standard,roulette,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+143,clothes-roulette-1,Roulette - get the right clothes,clothes,cultural,roulette,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+144,foodsl-roulette-1,Roulette - 3 meals in a restaurant,foods,cultural,roulette,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+145,shopping-roulette-1,Roulette - shopping cart,shopping,cultural,roulette,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+146,insects-roulette-1,Roulette - insects,insects,cultural,roulette,0,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,0,0
+147,shapes-poiki-sequence-1,Poiki is drawing  in the stars,shapes,standard,sequence,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+148,shapes-memory-1,4 pairs memory game,shapes,standard,memory,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+149,clothes-memory-1,4 pairs memory game,clothes,standard,memory,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+150,colors-memory-1,4 pairs memory game,colors,standard,memory,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+151,desertanimals-memory-1,4 pairs memory game,desert-animals,standard,memory,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+152,dinosaurs-memory-1,4 pairs memory game,dinosaurs,standard,memory,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+153,feelings-memory-1,4 pairs memory game,feelings,SEL,memory,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+154,foods-memory-1,4 pairs memory game,foods,cultural,memory,0,1,1,0,0,0,0,1,1,1,1,1,1,1,1,1,0,0,0

@@ -1,0 +1,8 @@
+python==3.7.0
+scipy==1.7.1
+pandas==1.1.5
+tensorflow==2.6.0
+matplotlib==3.4.3
+numpy==1.19.5
+seaborn==0.11.2
+sentence_transformers==2.1.0
